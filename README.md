@@ -52,3 +52,12 @@ Step 4: Logging in to the opensearchservice domain, the uploaded data can be vis
 
 
 ## Observations
+
+1) The highest avg fine and reduction amount is issued in NY county
+2) Most committed violations were "No standing time/day limits", "Double Parking", "No Standing Bus Stop", and "Fire Hydrant"
+3) Violations recorded were peaked between year 2014 and 2018
+4) High number of violations issued in Kings and Bronx County were committed by NY, NJ and PA license types
+5) Department of Transportation and Police Department issued ver %60 of total violations counted.
+
+
+![alt text](https://github.com/atekee/Open-Parking-and-Camera-Violations/blob/main/project01/assets/00_kibana_dashboard.png)
